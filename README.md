@@ -14,7 +14,7 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 ### 🔗 Connect with me:
 <p align="left">
-<a href="www.linkedin.com/in/pravesh-jain-bb2b59320" target="blank">
+<a href="https://www.linkedin.com/in/pravesh-jain-bb2b59320/" target="_blank">LinkedIn</a>
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
 </a>
 <a href="mailto:your-email@gmail.com" target="blank">
