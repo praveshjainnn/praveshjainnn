@@ -59,9 +59,6 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 </div>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/praveshajainnn)
----
-
 
 
 ---
