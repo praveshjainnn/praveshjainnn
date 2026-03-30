@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Pravesh Jain</h1>
+Hey there, I'm Pravesh Jain
+<!-- Animated Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Pravesh+Jain;AI+Enthusiast+%26;Machine+Learning+Engineer" alt="Typing SVG" />
+## Visitor Count
+![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=rule34)
+
 <h3 align="center">AI/ML Enthusiast | Data Scientist | Developer</h3>
 
 ---
@@ -12,16 +17,13 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/pravesh-jain-bb2b59320/" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40"/>
-</a>
-<a href="mailto:your-email@gmail.com" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" height="30" width="40"/>
-</a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshjainnn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-jain-bb2b59320/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveshjain553@gmail.com)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+</div>
 ---
 
 ### 🛠️ Languages and Tools:
@@ -44,13 +46,24 @@ My goal is to solve real-world problems and build impactful projects using intel
 </p>
 
 ---
+## 📈 Contribution Activity
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveshjainnn&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveshjainnn&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=praveshjainnn&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveshjainnn&theme=tokyo-night&hide_border=true)
+
+</div>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vedantpandhare&color=0e75b6&style=flat-square)](https://github.com/praveshajainnn)
+---
+
+
 
 ---
 
