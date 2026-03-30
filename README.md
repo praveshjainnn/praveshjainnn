@@ -1,8 +1,7 @@
-Hey there, I'm Pravesh Jain
+
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Pravesh+Jain;AI+Enthusiast+%26;Machine+Learning+Engineer" alt="Typing SVG" />
-## Visitor Count
-![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=rule34)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Pravesh+Jain" alt="Typing SVG" />
+
 
 <h3 align="center">AI/ML Enthusiast | Data Scientist | Developer</h3>
 
@@ -16,7 +15,7 @@ My goal is to solve real-world problems and build impactful projects using intel
 - 🌱 Currently learning: **[DSA and ML and DL]**
 
 ---
-
+![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=rule34)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshjainnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-jain-bb2b59320/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveshjain553@gmail.com)
