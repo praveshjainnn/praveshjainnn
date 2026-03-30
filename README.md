@@ -15,7 +15,7 @@ My goal is to solve real-world problems and build impactful projects using intel
 - 🌱 Currently learning: **[DSA and ML and DL]**
 
 ---
-![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=rule34)
+![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=gelbooru)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshjainnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-jain-bb2b59320/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praveshjain553@gmail.com)
@@ -55,9 +55,14 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveshjainnn&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveshjainnn&theme=react-dark&hide_border=true)
 
 </div>
+
+
+
+
+
 
 
 
