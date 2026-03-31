@@ -1,6 +1,6 @@
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Pravesh+Jain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Heyyy!+I'm+Pravesh+Jain" alt="Typing SVG" />
 
 
 <h3 align="center">AI/ML Enthusiast | Data Scientist | Developer</h3>
