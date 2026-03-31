@@ -53,11 +53,10 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 </div>
 
-<div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=praveshjainnn&theme=react-dark&hide_border=true)
 
-</div>
+
+
 
 
 
