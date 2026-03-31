@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AgentWatch — AI Agent Monitoring</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/css/dashboard.css" />
+</head>
+<body>
+
+<!-- ── Header ──────────────────────────────────────────── -->
+<header>
+  <div class="logo">
+    <span>🛡️</span> AgentWatch
+  </div>
+  <div id="conn-status">
+    <div class="dot"></div>
+    <span class="label">Connecting…</span>
+  </div>
+</header>
+
+<!-- ── Main grid ───────────────────────────────────────── -->
+<main>
+
+  <!-- Stats row -->
+  <div id="stats-row">
+    <div class="stat-card">
+      <span class="label">Total Events</span>
+      <span class="value" id="stat-total">—</span>
+    </div>
+    <div class="stat-card">
+      <span class="label">Agents</span>
+      <span class="value" id="stat-agents">—</span>
+    </div>
+    <div class="stat-card">
+      <span class="label">All Alerts</span>
+      <span class="value" id="stat-alerts">—</span>
+    </div>
+    <div class="stat-card" id="card-open">
+      <span class="label">Open Alerts</span>
+      <span class="value" id="stat-open">—</span>
+    </div>
+    <div class="stat-card" id="card-crit">
+      <span class="label">Critical</span>
+      <span class="value" id="stat-crit">—</span>
+    </div>
+  </div>
+
+  <!-- Agents panel -->
+  <div class="panel" id="agents-panel">
+    <div class="panel-header">
+      🤖 Registered Agents
+    </div>
+    <div class="panel-body" id="agents-list">
+      <div class="empty">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Alerts panel -->
+  <div class="panel" id="alerts-panel">
+    <div class="panel-header">
+      🚨 Alerts
+      <span class="badge" id="alerts-badge">0</span>
+    </div>
+    <div class="panel-body" id="alerts-list">
+      <div class="empty">Loading…</div>
+    </div>
+  </div>
+
+  <!-- Live events feed -->
+  <div class="panel" id="events-panel">
+    <div class="panel-header">
+      ⚡ Live Event Feed
+    </div>
+    <div class="panel-body" id="events-list">
+      <div class="empty">Waiting for events…</div>
+    </div>
+  </div>
+
+  <!-- Send test event form -->
+  <div id="send-form">
+    <h3>🧪 Simulate Agent Event</h3>
+    <form id="event-form" style="display:contents">
+      <div class="form-group">
+        <label>Agent ID</label>
+        <input name="agent_id" placeholder="email-bot-1" value="email-bot-1" required />
+      </div>
+      <div class="form-group">
+        <label>Action</label>
+        <select name="action">
+          <option value="api_call">api_call</option>
+          <option value="read">read</option>
+          <option value="write">write</option>
+          <option value="delete">delete</option>
+          <option value="email">email</option>
+          <option value="notify">notify</option>
+          <option value="drop">drop</option>
+          <option value="destroy">destroy</option>
+          <option value="custom_action">custom_action</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Details</label>
+        <input name="details" placeholder="Optional details…" style="min-width:200px" />
+      </div>
+      <div class="form-group">
+        <label>Severity</label>
+        <select name="severity">
+          <option value="info">info</option>
+          <option value="warning">warning</option>
+          <option value="error">error</option>
+          <option value="critical">critical</option>
+        </select>
+      </div>
+      <button type="submit" class="send-btn">Send Event</button>
+    </form>
+  </div>
+
+</main>
+
+<script src="/static/js/dashboard.js"></script>
+</body>
+</html>
