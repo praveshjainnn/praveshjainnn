@@ -60,6 +60,9 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 </div>
 
+hello gysss
+
+
 
 
 
