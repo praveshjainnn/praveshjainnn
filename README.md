@@ -4,7 +4,6 @@
 
 
 <h3 align="center">AI/ML | Data Scientist | Developer</h3>
----
 
 ### 👨‍💻 About Me
 I am a dedicated student and aspiring professional in **Artificial Intelligence, Machine Learning, and Data Science**, with interests in **Deep Learning, Computer Vision, Data Engineering, and AI**.  
