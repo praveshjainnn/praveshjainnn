@@ -11,7 +11,6 @@ My goal is to solve real-world problems and build impactful projects using intel
 - 📧 Reach me at: **praveshjain553@gmail.com**
 - 🌱 Currently learning: **[DSA and ML and DL]**
 
----
 ![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=gelbooru)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshjainnn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravesh-jain-bb2b59320/)
@@ -20,7 +19,7 @@ My goal is to solve real-world problems and build impactful projects using intel
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 </div>
----
+
 
 ### 🛠️ Languages and Tools:
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
