@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Heyyy!+I'm+Pravesh+Jain" alt="Typing SVG" />
 
 <h3 align="center">AI/ML | Data Scientist | Developer</h3>
-
+yoooooo
 ### 👨‍💻 About Me
 I am a dedicated student and aspiring professional in **Artificial Intelligence, Machine Learning, and Data Science**, with interests in **Deep Learning, Computer Vision, Data Engineering, and AI**.  
 My goal is to solve real-world problems and build impactful projects using intelligent data-driven solutions.
