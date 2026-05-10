@@ -46,7 +46,8 @@ My goal is to solve real-world problems and build impactful projects using intel
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=praveshjainnn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 ---
 ## 📈 Contribution Activity
 
