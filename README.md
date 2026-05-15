@@ -10,6 +10,8 @@ My goal is to solve real-world problems and build impactful projects using intel
 
 - 📧 Reach me at: **praveshjain553@gmail.com**
 - 🌱 Currently learning: **[DSA and ML and DL]**
+-    Contributor in both the Open Source Track and AI Agents Track for GSSoC 2026 by **GirlScript Summer of Code Foundation**
+
 
 ![Visitor Count](https://count.getloli.com/get/@praveshjainnn?theme=gelbooru)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/praveshjainnn)
